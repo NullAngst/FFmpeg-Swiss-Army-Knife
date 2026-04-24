@@ -5,8 +5,8 @@ A comprehensive desktop GUI for FFmpeg — built with Python and Tkinter. No com
 ---
 
 ## Screenshots
-
-> _Add screenshots here once the app is running._
+-todo
+> _Add screenshots here of the app running._
 
 ---
 
